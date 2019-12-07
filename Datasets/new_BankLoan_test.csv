@@ -1,0 +1,501 @@
+CustomerAge,Exp,Area,Family,EducationLevel,HaveMortgage,EarlierLoanTaken,HaveSecurities_Account,HaveCD_Account,HaveOnline_Facilities,GiveCreditCard
+<=50,<=10,Area2,1,Undergraduate,No,No,No,No,Yes,No
+<=50,>10 and <=20,Area1,3,Advanced/Professional,Yes,No,No,No,Yes,No
+<=50,>10 and <=20,Area2,2,Advanced/Professional,Yes,No,No,No,Yes,No
+<=50,<=10,Area1,3,Undergraduate,No,No,No,No,Yes,Yes
+<=50,<=10,Area2,3,Advanced/Professional,No,No,No,No,No,No
+>50,>20,Area2,1,Undergraduate,No,No,No,No,Yes,No
+<=50,>20,Area2,1,Undergraduate,Yes,No,No,No,No,No
+>50,>20,Area2,2,Advanced/Professional,No,No,No,No,Yes,Yes
+<=50,>10 and <=20,Area2,2,Undergraduate,Yes,No,No,No,No,Yes
+>50,>20,Area2,2,Graduate,Yes,No,No,No,No,Yes
+<=50,>20,Area1,3,Graduate,No,No,No,No,Yes,No
+>50,>20,Area1,2,Undergraduate,Yes,No,No,No,No,No
+>50,>20,Area2,1,Graduate,No,No,No,No,No,No
+<=50,>20,Area2,4,Undergraduate,No,No,No,No,Yes,No
+>50,>20,Area2,1,Graduate,Yes,No,No,No,Yes,No
+<=50,>10 and <=20,Area2,4,Undergraduate,No,No,No,No,No,No
+<=50,>10 and <=20,Area2,2,Graduate,No,No,No,No,Yes,No
+<=50,<=10,Area2,4,Graduate,Yes,No,No,No,Yes,No
+>50,>20,Area1,2,Advanced/Professional,No,No,No,No,Yes,Yes
+<=50,<=10,Area2,1,Advanced/Professional,No,No,No,No,No,Yes
+>50,>20,Area1,2,Advanced/Professional,Yes,Yes,No,Yes,Yes,Yes
+<=50,>10 and <=20,Area1,2,Undergraduate,No,No,No,No,Yes,No
+<=50,>10 and <=20,Area1,2,Undergraduate,No,No,No,No,No,No
+<=50,<=10,Area1,3,Graduate,Yes,No,No,No,No,Yes
+<=50,>10 and <=20,Area2,4,Advanced/Professional,No,No,No,No,No,No
+<=50,>10 and <=20,Area2,3,Advanced/Professional,No,No,No,No,Yes,No
+>50,>20,Area1,1,Undergraduate,No,No,No,No,No,Yes
+>50,>20,Area2,3,Advanced/Professional,No,No,No,No,Yes,No
+<=50,<=10,Area1,2,Undergraduate,No,No,No,No,Yes,No
+<=50,>20,Area1,1,Undergraduate,Yes,No,No,No,No,Yes
+<=50,>10 and <=20,Area1,4,Undergraduate,Yes,No,No,No,Yes,No
+>50,>20,Area2,2,Advanced/Professional,Yes,Yes,No,No,No,No
+<=50,<=10,Area2,3,Graduate,Yes,No,No,No,Yes,No
+<=50,>10 and <=20,Area1,2,Undergraduate,No,No,No,No,Yes,No
+>50,>20,Area2,3,Undergraduate,No,No,No,No,No,Yes
+>50,>20,Area1,3,Undergraduate,No,No,No,No,Yes,No
+>50,>20,Area1,4,Graduate,No,No,No,No,No,No
+<=50,<=10,Area1,2,Graduate,No,No,No,No,Yes,No
+<=50,>10 and <=20,Area2,1,Undergraduate,No,No,No,No,No,No
+<=50,>10 and <=20,Area1,3,Graduate,Yes,Yes,Yes,Yes,Yes,No
+<=50,>10 and <=20,Area1,3,Graduate,No,No,No,No,Yes,No
+>50,>20,Area2,1,Advanced/Professional,No,No,No,No,No,Yes
+>50,>20,Area2,2,Advanced/Professional,No,No,No,No,Yes,No
+<=50,<=10,Area2,4,Advanced/Professional,No,No,No,No,No,No
+<=50,<=10,Area2,1,Graduate,No,No,No,No,No,No
+<=50,<=10,Area2,3,Graduate,No,No,No,No,Yes,No
+>50,>20,Area2,4,Graduate,No,No,No,No,Yes,No
+>50,>20,Area2,1,Graduate,Yes,No,No,No,Yes,No
+<=50,<=10,Area2,4,Undergraduate,Yes,No,No,No,Yes,Yes
+<=50,>20,Area1,3,Graduate,No,No,No,No,Yes,No
+<=50,>20,Area2,1,Undergraduate,Yes,No,No,No,Yes,No
+<=50,>10 and <=20,Area1,3,Undergraduate,No,No,No,No,No,Yes
+<=50,>20,Area1,2,Undergraduate,Yes,No,No,No,Yes,No
+>50,>20,Area1,3,Undergraduate,Yes,No,No,No,Yes,No
+<=50,>20,Area1,1,Graduate,No,No,No,No,No,No
+>50,>20,Area1,1,Advanced/Professional,No,No,No,No,Yes,No
+<=50,>10 and <=20,Area2,4,Undergraduate,No,No,No,No,Yes,No
+<=50,>20,Area1,2,Undergraduate,No,No,No,No,Yes,No
+>50,>20,Area2,1,Graduate,No,No,No,No,No,No
+>50,>20,Area2,3,Graduate,No,No,No,No,No,No
+>50,>20,Area2,2,Undergraduate,No,No,No,No,Yes,Yes
+<=50,>10 and <=20,Area2,1,Advanced/Professional,Yes,No,No,No,Yes,No
+<=50,>10 and <=20,Area1,1,Undergraduate,No,No,No,No,No,No
+<=50,<=10,Area1,1,Graduate,Yes,No,No,No,Yes,No
+>50,>20,Area1,4,Advanced/Professional,No,No,No,No,Yes,No
+>50,>20,Area2,3,Graduate,No,No,No,No,No,No
+<=50,<=10,Area2,3,Undergraduate,No,No,No,No,No,Yes
+<=50,>10 and <=20,Area2,1,Advanced/Professional,No,No,No,No,Yes,No
+>50,>20,Area2,1,Graduate,No,No,No,No,No,No
+<=50,>10 and <=20,Area1,2,Graduate,No,No,No,No,Yes,Yes
+<=50,>10 and <=20,Area2,2,Undergraduate,No,No,No,No,No,No
+<=50,>10 and <=20,Area1,2,Graduate,Yes,No,No,No,No,No
+>50,>20,Area1,3,Advanced/Professional,Yes,No,No,Yes,Yes,Yes
+>50,>20,Area2,1,Advanced/Professional,No,No,No,No,Yes,No
+<=50,<=10,Area2,4,Undergraduate,No,No,No,No,No,No
+<=50,>10 and <=20,Area1,1,Undergraduate,No,No,No,No,No,Yes
+>50,>20,Area2,4,Advanced/Professional,No,No,No,No,Yes,No
+<=50,>10 and <=20,Area1,1,Undergraduate,No,No,No,No,Yes,Yes
+>50,>20,Area1,2,Undergraduate,No,No,No,No,Yes,No
+>50,>20,Area1,4,Advanced/Professional,No,No,No,No,Yes,No
+<=50,>10 and <=20,Area2,3,Graduate,No,No,No,No,Yes,Yes
+<=50,<=10,Area2,4,Undergraduate,No,No,No,No,Yes,Yes
+<=50,>10 and <=20,Area2,1,Advanced/Professional,No,No,No,No,Yes,No
+>50,>20,Area1,2,Undergraduate,Yes,No,No,No,Yes,No
+>50,>20,Area2,1,Graduate,Yes,No,Yes,No,Yes,No
+>50,>20,Area1,1,Advanced/Professional,Yes,No,No,No,Yes,No
+<=50,<=10,Area2,1,Undergraduate,No,No,No,No,No,Yes
+>50,>20,Area2,4,Graduate,No,No,No,No,Yes,No
+<=50,>20,Area1,3,Undergraduate,No,No,No,No,No,No
+>50,>20,Area2,3,Advanced/Professional,Yes,No,No,No,No,No
+<=50,>10 and <=20,Area1,4,Advanced/Professional,Yes,No,No,No,Yes,No
+>50,>20,Area1,4,Graduate,Yes,No,No,No,Yes,Yes
+<=50,>20,Area1,1,Undergraduate,No,No,No,No,No,Yes
+<=50,<=10,Area1,3,Undergraduate,Yes,No,No,No,No,No
+<=50,>10 and <=20,Area1,2,Undergraduate,No,No,Yes,Yes,Yes,No
+<=50,<=10,Area2,4,Advanced/Professional,Yes,Yes,No,No,Yes,No
+>50,>20,Area1,3,Advanced/Professional,No,No,Yes,No,No,No
+>50,>20,Area1,1,Graduate,No,No,No,No,Yes,No
+>50,>20,Area2,2,Undergraduate,No,No,No,No,Yes,No
+<=50,<=10,Area2,3,Undergraduate,No,No,No,No,No,No
+>50,>20,Area2,3,Undergraduate,No,No,No,No,No,Yes
+<=50,>20,Area1,1,Graduate,No,No,No,No,No,No
+<=50,>10 and <=20,Area2,4,Graduate,No,No,No,No,Yes,No
+<=50,<=10,Area2,1,Undergraduate,Yes,No,No,No,Yes,No
+<=50,<=10,Area1,3,Undergraduate,No,No,No,No,Yes,No
+<=50,<=10,Area2,4,Undergraduate,No,No,No,No,Yes,No
+<=50,<=10,Area2,1,Advanced/Professional,Yes,No,No,No,Yes,No
+>50,>20,Area2,2,Advanced/Professional,Yes,No,No,No,Yes,No
+<=50,>10 and <=20,Area2,4,Undergraduate,No,No,Yes,No,No,Yes
+<=50,>10 and <=20,Area2,2,Graduate,No,No,No,No,No,Yes
+<=50,<=10,Area2,1,Undergraduate,Yes,No,No,No,No,No
+>50,>20,Area2,3,Graduate,No,No,No,No,Yes,Yes
+>50,>20,Area2,4,Undergraduate,No,No,No,No,Yes,No
+<=50,>10 and <=20,Area2,3,Graduate,No,No,No,No,No,No
+<=50,>10 and <=20,Area2,2,Undergraduate,No,No,No,No,Yes,Yes
+>50,>20,Area2,4,Advanced/Professional,Yes,No,No,No,Yes,No
+<=50,>10 and <=20,Area2,2,Graduate,No,No,No,No,Yes,No
+>50,>20,Area2,3,Advanced/Professional,No,Yes,No,Yes,Yes,Yes
+<=50,<=10,Area2,2,Graduate,No,No,No,No,No,Yes
+>50,>20,Area1,2,Undergraduate,No,No,No,No,Yes,No
+>50,>20,Area1,3,Advanced/Professional,No,No,No,No,Yes,No
+<=50,>10 and <=20,Area2,4,Advanced/Professional,No,No,No,No,No,No
+<=50,>10 and <=20,Area1,2,Undergraduate,No,No,No,No,Yes,No
+<=50,<=10,Area2,4,Undergraduate,Yes,No,No,No,Yes,No
+<=50,<=10,Area2,1,Undergraduate,Yes,No,No,No,No,No
+>50,>20,Area2,1,Undergraduate,No,No,Yes,No,No,No
+>50,>20,Area2,1,Advanced/Professional,Yes,No,No,No,No,No
+<=50,<=10,Area1,1,Undergraduate,Yes,No,No,No,Yes,Yes
+>50,>20,Area1,2,Undergraduate,Yes,No,No,No,Yes,No
+<=50,<=10,Area2,2,Undergraduate,No,No,No,No,No,No
+<=50,>10 and <=20,Area2,2,Graduate,No,No,No,Yes,Yes,Yes
+<=50,>20,Area2,4,Advanced/Professional,No,No,Yes,No,No,No
+>50,>20,Area2,1,Undergraduate,No,No,No,No,Yes,Yes
+<=50,>10 and <=20,Area2,1,Undergraduate,No,No,No,No,No,Yes
+<=50,>20,Area2,4,Advanced/Professional,No,No,No,No,Yes,Yes
+<=50,>20,Area1,1,Undergraduate,No,No,No,No,No,Yes
+<=50,>10 and <=20,Area1,4,Advanced/Professional,No,No,No,No,Yes,No
+<=50,<=10,Area1,1,Undergraduate,No,No,No,No,No,No
+>50,>20,Area2,2,Undergraduate,No,No,No,No,No,No
+>50,>20,Area2,4,Graduate,No,No,No,No,Yes,No
+<=50,<=10,Area1,4,Undergraduate,Yes,No,No,No,Yes,No
+>50,>20,Area2,2,Undergraduate,No,No,Yes,No,No,No
+>50,>20,Area1,3,Advanced/Professional,No,No,No,No,No,Yes
+<=50,<=10,Area1,4,Undergraduate,Yes,No,No,No,Yes,No
+<=50,<=10,Area2,3,Undergraduate,Yes,No,No,No,No,No
+<=50,<=10,Area2,2,Undergraduate,No,No,No,No,Yes,No
+<=50,>20,Area1,1,Graduate,No,No,No,No,Yes,Yes
+>50,>20,Area2,4,Graduate,No,No,Yes,No,Yes,No
+>50,>20,Area2,1,Graduate,No,No,No,No,Yes,No
+<=50,<=10,Area2,1,Advanced/Professional,No,Yes,No,No,No,No
+>50,>20,Area2,4,Graduate,No,No,No,Yes,Yes,Yes
+<=50,>10 and <=20,Area2,3,Graduate,No,No,No,No,No,No
+>50,>20,Area2,3,Advanced/Professional,No,Yes,No,No,No,No
+>50,>20,Area2,1,Graduate,No,No,No,No,No,No
+<=50,<=10,Area1,2,Undergraduate,Yes,No,No,No,No,No
+>50,>20,Area2,1,Graduate,Yes,No,No,No,Yes,No
+<=50,>10 and <=20,Area2,3,Graduate,No,Yes,Yes,Yes,Yes,Yes
+<=50,>10 and <=20,Area2,3,Undergraduate,No,No,No,No,No,No
+<=50,>10 and <=20,Area1,4,Undergraduate,Yes,No,No,No,No,No
+>50,>20,Area2,3,Graduate,No,No,No,No,No,No
+<=50,<=10,Area2,1,Advanced/Professional,No,No,No,No,Yes,No
+>50,>20,Area2,4,Graduate,No,No,Yes,No,Yes,No
+<=50,<=10,Area2,2,Undergraduate,No,No,No,No,Yes,Yes
+<=50,<=10,Area2,4,Undergraduate,No,No,Yes,Yes,Yes,Yes
+<=50,<=10,Area2,4,Undergraduate,No,No,Yes,No,No,No
+>50,>20,Area1,2,Undergraduate,No,No,No,No,Yes,Yes
+>50,>20,Area2,4,Advanced/Professional,No,No,No,No,Yes,Yes
+>50,>20,Area1,3,Advanced/Professional,Yes,No,No,No,Yes,Yes
+<=50,<=10,Area2,4,Graduate,Yes,No,Yes,No,Yes,No
+>50,>20,Area1,2,Undergraduate,No,No,No,No,Yes,Yes
+<=50,>20,Area2,2,Advanced/Professional,No,No,No,No,Yes,No
+<=50,>20,Area1,2,Undergraduate,No,No,No,No,Yes,No
+<=50,>10 and <=20,Area2,4,Undergraduate,No,No,No,No,Yes,No
+>50,>20,Area1,3,Undergraduate,No,No,No,No,Yes,No
+<=50,<=10,Area1,4,Graduate,Yes,No,No,No,Yes,Yes
+<=50,>10 and <=20,Area1,1,Undergraduate,No,No,No,No,Yes,Yes
+<=50,<=10,Area1,3,Undergraduate,No,No,No,No,No,No
+>50,>20,Area1,2,Undergraduate,No,No,Yes,No,Yes,No
+<=50,<=10,Area2,1,Graduate,No,No,No,No,No,No
+>50,>20,Area2,4,Graduate,Yes,No,Yes,No,Yes,No
+<=50,>20,Area2,4,Undergraduate,No,No,No,No,Yes,No
+<=50,>10 and <=20,Area2,1,Advanced/Professional,No,No,No,No,Yes,Yes
+>50,>20,Area2,4,Undergraduate,No,No,No,No,Yes,No
+<=50,<=10,Area1,4,Graduate,Yes,No,No,No,Yes,No
+<=50,>10 and <=20,Area1,2,Undergraduate,No,No,No,No,Yes,No
+<=50,<=10,Area1,4,Advanced/Professional,Yes,Yes,No,No,Yes,No
+>50,>20,Area2,3,Graduate,Yes,No,No,Yes,Yes,Yes
+<=50,>20,Area2,4,Advanced/Professional,Yes,Yes,No,No,No,No
+>50,>20,Area2,1,Undergraduate,No,No,No,No,Yes,Yes
+>50,>20,Area1,4,Undergraduate,Yes,No,No,No,Yes,No
+<=50,>10 and <=20,Area2,2,Advanced/Professional,No,No,No,No,Yes,No
+<=50,<=10,Area2,4,Advanced/Professional,Yes,No,No,No,No,No
+>50,>20,Area2,2,Graduate,No,No,No,No,Yes,No
+<=50,<=10,Area1,3,Graduate,No,No,No,No,No,No
+>50,>20,Area1,2,Undergraduate,No,No,Yes,No,Yes,No
+<=50,<=10,Area1,2,Undergraduate,Yes,No,No,No,No,No
+>50,>20,Area1,4,Undergraduate,No,No,No,No,Yes,No
+>50,>20,Area2,3,Undergraduate,No,No,No,No,Yes,No
+<=50,>10 and <=20,Area2,2,Advanced/Professional,Yes,No,No,No,No,No
+<=50,>20,Area1,3,Graduate,No,No,No,No,Yes,Yes
+<=50,>10 and <=20,Area2,3,Undergraduate,No,No,No,No,No,Yes
+>50,>20,Area2,1,Undergraduate,No,No,No,No,Yes,No
+<=50,>20,Area2,4,Graduate,No,Yes,No,No,No,No
+>50,>20,Area1,4,Advanced/Professional,No,No,Yes,No,Yes,No
+<=50,<=10,Area2,3,Undergraduate,No,No,No,No,Yes,Yes
+<=50,>10 and <=20,Area2,2,Graduate,Yes,No,No,No,No,Yes
+<=50,<=10,Area2,1,Undergraduate,No,No,No,No,No,No
+>50,>20,Area2,1,Undergraduate,Yes,No,No,No,Yes,No
+<=50,>10 and <=20,Area1,4,Advanced/Professional,No,No,Yes,No,No,No
+<=50,>20,Area2,4,Advanced/Professional,Yes,No,Yes,No,No,No
+>50,>20,Area1,4,Graduate,Yes,No,No,No,Yes,No
+>50,>20,Area2,1,Advanced/Professional,Yes,No,No,No,Yes,No
+<=50,<=10,Area1,3,Graduate,Yes,Yes,No,No,Yes,No
+<=50,>10 and <=20,Area2,3,Graduate,No,No,No,No,Yes,No
+<=50,<=10,Area2,3,Undergraduate,No,No,No,No,No,Yes
+>50,>20,Area1,3,Graduate,Yes,No,No,No,Yes,No
+>50,>20,Area1,3,Advanced/Professional,No,No,No,No,No,Yes
+>50,>20,Area2,1,Advanced/Professional,Yes,No,No,No,Yes,No
+>50,>20,Area2,1,Advanced/Professional,Yes,No,No,No,Yes,Yes
+>50,>20,Area1,2,Graduate,No,No,No,No,Yes,No
+>50,>20,Area1,1,Graduate,No,No,No,No,Yes,No
+>50,>20,Area2,3,Graduate,No,No,No,No,Yes,Yes
+<=50,>10 and <=20,Area1,2,Undergraduate,No,No,No,No,No,Yes
+<=50,<=10,Area2,4,Undergraduate,No,No,No,No,Yes,Yes
+<=50,>20,Area2,1,Undergraduate,No,No,No,No,No,Yes
+<=50,>10 and <=20,Area1,3,Undergraduate,No,No,No,No,Yes,Yes
+>50,>20,Area2,1,Graduate,Yes,No,No,No,No,Yes
+<=50,>10 and <=20,Area1,2,Advanced/Professional,No,No,No,No,Yes,Yes
+>50,>20,Area2,3,Graduate,No,No,No,No,Yes,Yes
+>50,>20,Area1,1,Graduate,No,No,Yes,No,No,No
+<=50,>20,Area2,3,Undergraduate,Yes,No,No,Yes,Yes,Yes
+>50,>20,Area1,2,Advanced/Professional,No,No,No,No,Yes,No
+>50,>20,Area1,4,Undergraduate,No,No,No,No,No,No
+>50,>20,Area2,4,Graduate,No,Yes,No,Yes,Yes,No
+>50,>20,Area2,3,Advanced/Professional,No,No,No,No,No,No
+>50,>20,Area2,3,Undergraduate,No,No,No,No,Yes,No
+<=50,<=10,Area2,1,Undergraduate,No,No,Yes,No,No,No
+>50,>20,Area2,4,Undergraduate,No,No,No,No,No,Yes
+<=50,>10 and <=20,Area1,1,Advanced/Professional,No,No,No,No,Yes,No
+<=50,<=10,Area2,1,Undergraduate,No,No,No,No,Yes,Yes
+>50,>20,Area2,3,Graduate,No,Yes,No,No,No,No
+<=50,<=10,Area2,1,Advanced/Professional,No,No,No,No,Yes,No
+<=50,>10 and <=20,Area2,1,Advanced/Professional,No,No,No,No,No,Yes
+<=50,>20,Area2,2,Advanced/Professional,Yes,No,No,No,No,No
+>50,>20,Area2,3,Advanced/Professional,Yes,No,No,No,No,Yes
+<=50,<=10,Area2,1,Undergraduate,No,No,No,No,Yes,No
+<=50,<=10,Area2,3,Advanced/Professional,No,No,No,No,Yes,Yes
+>50,>20,Area2,4,Advanced/Professional,No,No,No,No,No,Yes
+<=50,>10 and <=20,Area1,2,Advanced/Professional,No,No,No,No,No,No
+<=50,<=10,Area1,3,Graduate,No,No,No,No,Yes,No
+<=50,<=10,Area2,1,Advanced/Professional,No,Yes,No,No,Yes,No
+<=50,>10 and <=20,Area2,2,Graduate,No,No,No,No,No,No
+<=50,>20,Area1,4,Graduate,Yes,Yes,No,No,No,No
+<=50,>20,Area2,3,Graduate,No,No,No,No,Yes,No
+<=50,<=10,Area2,4,Graduate,Yes,No,No,No,Yes,Yes
+>50,>20,Area1,2,Undergraduate,Yes,No,No,No,No,Yes
+<=50,<=10,Area2,4,Undergraduate,No,No,No,No,Yes,Yes
+<=50,<=10,Area2,2,Undergraduate,Yes,No,Yes,No,No,Yes
+>50,>20,Area1,1,Undergraduate,No,No,No,No,Yes,No
+>50,>20,Area1,2,Undergraduate,No,No,No,No,Yes,Yes
+<=50,<=10,Area2,4,Advanced/Professional,No,Yes,No,Yes,No,Yes
+<=50,>10 and <=20,Area2,1,Advanced/Professional,Yes,No,No,No,Yes,No
+>50,>20,Area1,1,Advanced/Professional,No,No,No,No,No,No
+<=50,>20,Area2,3,Advanced/Professional,No,No,No,No,No,No
+>50,>20,Area2,4,Undergraduate,No,No,No,No,Yes,No
+>50,>20,Area2,2,Advanced/Professional,No,No,No,No,No,No
+<=50,>10 and <=20,Area2,3,Advanced/Professional,No,No,No,No,No,Yes
+<=50,>10 and <=20,Area2,3,Graduate,No,Yes,Yes,Yes,Yes,No
+>50,>20,Area1,3,Graduate,No,No,No,No,No,Yes
+>50,>20,Area2,4,Graduate,No,No,No,No,Yes,No
+<=50,<=10,Area2,3,Undergraduate,Yes,No,No,No,Yes,No
+<=50,<=10,Area2,2,Advanced/Professional,No,No,No,No,Yes,No
+<=50,>10 and <=20,Area2,3,Graduate,No,No,No,No,Yes,Yes
+>50,>20,Area2,2,Undergraduate,No,No,No,No,Yes,No
+>50,>20,Area2,4,Advanced/Professional,No,No,Yes,No,Yes,No
+<=50,<=10,Area2,1,Graduate,No,Yes,No,No,Yes,No
+<=50,<=10,Area1,4,Advanced/Professional,No,No,No,No,Yes,No
+>50,>20,Area1,2,Advanced/Professional,Yes,No,Yes,No,Yes,No
+<=50,<=10,Area2,1,Undergraduate,Yes,No,No,No,No,Yes
+<=50,>10 and <=20,Area2,2,Advanced/Professional,Yes,No,No,No,Yes,Yes
+<=50,>10 and <=20,Area1,1,Graduate,Yes,No,Yes,No,No,No
+<=50,<=10,Area2,4,Advanced/Professional,Yes,No,No,No,Yes,No
+<=50,>20,Area1,4,Undergraduate,No,No,No,No,Yes,No
+>50,>20,Area2,3,Graduate,No,No,No,No,No,Yes
+<=50,>10 and <=20,Area2,4,Advanced/Professional,No,No,No,No,Yes,No
+>50,>20,Area2,2,Graduate,Yes,No,No,No,Yes,Yes
+<=50,<=10,Area2,2,Advanced/Professional,No,No,Yes,No,Yes,No
+>50,>20,Area2,2,Advanced/Professional,No,Yes,No,No,No,No
+<=50,>20,Area2,4,Undergraduate,Yes,No,No,No,Yes,No
+<=50,<=10,Area2,4,Advanced/Professional,No,No,No,No,No,Yes
+<=50,>20,Area2,1,Graduate,No,No,No,No,Yes,Yes
+<=50,<=10,Area1,2,Undergraduate,No,No,No,No,Yes,No
+>50,>20,Area2,2,Advanced/Professional,No,No,No,No,Yes,No
+<=50,<=10,Area2,4,Graduate,No,No,No,No,No,No
+>50,>20,Area2,4,Undergraduate,No,Yes,No,Yes,Yes,Yes
+<=50,>10 and <=20,Area2,3,Undergraduate,Yes,No,No,No,No,Yes
+<=50,>20,Area2,2,Advanced/Professional,No,No,No,No,Yes,No
+<=50,>10 and <=20,Area2,3,Graduate,No,No,No,No,Yes,No
+<=50,<=10,Area2,2,Undergraduate,Yes,No,No,No,Yes,Yes
+>50,>20,Area2,3,Undergraduate,No,No,No,No,Yes,No
+<=50,<=10,Area1,3,Undergraduate,No,Yes,No,No,Yes,No
+<=50,>20,Area2,2,Graduate,No,No,Yes,No,No,No
+>50,>20,Area2,4,Graduate,No,No,No,No,Yes,No
+<=50,>10 and <=20,Area1,3,Graduate,Yes,No,No,No,Yes,No
+<=50,>10 and <=20,Area1,2,Undergraduate,No,No,No,No,No,Yes
+<=50,<=10,Area1,4,Graduate,No,No,No,No,Yes,No
+>50,>20,Area1,2,Undergraduate,No,No,No,No,No,No
+<=50,<=10,Area2,2,Undergraduate,No,No,No,No,Yes,No
+>50,>20,Area2,1,Undergraduate,No,No,No,No,No,No
+>50,>20,Area2,2,Advanced/Professional,No,Yes,No,No,Yes,No
+>50,>20,Area1,2,Advanced/Professional,Yes,Yes,No,No,No,No
+<=50,>20,Area1,4,Undergraduate,Yes,No,No,No,Yes,Yes
+<=50,>10 and <=20,Area1,2,Advanced/Professional,No,No,Yes,No,Yes,No
+>50,>20,Area1,1,Undergraduate,No,No,No,No,Yes,No
+<=50,>10 and <=20,Area1,1,Undergraduate,No,No,No,No,No,No
+<=50,>10 and <=20,Area1,3,Graduate,No,No,No,No,Yes,No
+<=50,>20,Area2,1,Undergraduate,No,No,No,No,Yes,No
+<=50,>10 and <=20,Area1,1,Advanced/Professional,Yes,No,No,No,No,No
+<=50,>10 and <=20,Area1,1,Advanced/Professional,No,No,No,No,No,No
+<=50,>10 and <=20,Area1,2,Graduate,No,No,No,No,Yes,No
+<=50,<=10,Area2,2,Undergraduate,No,No,No,No,No,No
+>50,>20,Area2,2,Advanced/Professional,Yes,No,No,No,Yes,Yes
+<=50,<=10,Area1,2,Advanced/Professional,No,No,No,No,Yes,No
+>50,>20,Area2,4,Undergraduate,No,No,Yes,No,Yes,No
+<=50,>10 and <=20,Area1,3,Advanced/Professional,No,Yes,No,Yes,Yes,Yes
+<=50,>10 and <=20,Area2,2,Advanced/Professional,No,No,No,No,Yes,Yes
+>50,>20,Area2,3,Graduate,No,Yes,No,No,Yes,No
+>50,>20,Area2,4,Undergraduate,Yes,Yes,No,No,Yes,No
+>50,>20,Area1,4,Advanced/Professional,No,No,No,No,No,No
+>50,>20,Area2,4,Graduate,No,No,No,No,Yes,No
+<=50,>10 and <=20,Area2,2,Graduate,No,No,No,No,Yes,No
+<=50,>20,Area2,1,Advanced/Professional,No,No,No,No,No,No
+<=50,<=10,Area2,3,Advanced/Professional,No,No,Yes,No,No,No
+>50,>20,Area2,3,Advanced/Professional,No,No,No,No,Yes,No
+>50,>20,Area2,2,Undergraduate,No,No,No,No,No,Yes
+>50,>20,Area2,2,Undergraduate,Yes,No,Yes,Yes,Yes,Yes
+<=50,<=10,Area2,4,Advanced/Professional,No,No,No,No,Yes,No
+<=50,<=10,Area2,4,Undergraduate,No,No,No,No,No,No
+<=50,>10 and <=20,Area2,4,Undergraduate,No,No,Yes,No,Yes,No
+<=50,<=10,Area1,2,Undergraduate,No,No,No,No,Yes,No
+<=50,>20,Area2,3,Undergraduate,No,No,No,No,No,No
+<=50,>10 and <=20,Area1,3,Advanced/Professional,No,No,Yes,No,Yes,No
+<=50,>20,Area1,1,Advanced/Professional,No,No,No,No,No,No
+<=50,>10 and <=20,Area1,1,Undergraduate,No,No,No,No,No,Yes
+>50,>20,Area1,1,Advanced/Professional,No,No,Yes,No,Yes,No
+>50,>20,Area2,4,Graduate,No,No,No,No,Yes,Yes
+<=50,>20,Area1,2,Undergraduate,No,No,No,No,Yes,No
+<=50,>20,Area2,2,Graduate,No,Yes,Yes,Yes,Yes,No
+<=50,<=10,Area2,2,Advanced/Professional,Yes,Yes,No,Yes,Yes,Yes
+<=50,>20,Area1,1,Advanced/Professional,No,No,No,No,Yes,No
+<=50,<=10,Area2,2,Undergraduate,Yes,No,No,No,Yes,No
+<=50,>10 and <=20,Area1,3,Undergraduate,Yes,No,No,No,Yes,No
+>50,>20,Area1,4,Graduate,No,No,No,No,No,No
+<=50,>10 and <=20,Area2,2,Undergraduate,Yes,No,No,No,Yes,No
+>50,>20,Area2,2,Advanced/Professional,No,Yes,No,No,No,No
+<=50,>10 and <=20,Area1,2,Undergraduate,No,No,No,No,Yes,Yes
+<=50,>20,Area2,1,Undergraduate,No,No,No,No,No,No
+<=50,>20,Area2,1,Undergraduate,No,No,No,No,No,Yes
+<=50,>10 and <=20,Area1,3,Graduate,Yes,Yes,No,No,No,No
+<=50,>10 and <=20,Area2,1,Advanced/Professional,No,Yes,Yes,Yes,Yes,Yes
+<=50,<=10,Area2,2,Undergraduate,No,No,No,No,No,Yes
+>50,>20,Area1,4,Undergraduate,No,No,No,No,No,No
+>50,>20,Area2,4,Undergraduate,No,Yes,Yes,Yes,Yes,No
+>50,>20,Area2,1,Advanced/Professional,No,No,No,No,No,Yes
+>50,>20,Area1,3,Undergraduate,No,No,No,No,Yes,No
+<=50,<=10,Area1,1,Undergraduate,No,No,No,No,Yes,No
+<=50,>10 and <=20,Area1,2,Undergraduate,No,No,No,No,Yes,Yes
+<=50,>10 and <=20,Area2,4,Undergraduate,No,No,No,No,Yes,No
+<=50,>10 and <=20,Area2,2,Undergraduate,Yes,No,No,No,Yes,No
+<=50,>10 and <=20,Area2,4,Graduate,Yes,No,No,No,Yes,No
+>50,>20,Area2,3,Undergraduate,No,No,No,No,No,Yes
+<=50,<=10,Area1,3,Undergraduate,Yes,No,No,No,No,Yes
+>50,>20,Area2,2,Advanced/Professional,Yes,No,No,No,No,No
+>50,>20,Area2,4,Graduate,Yes,No,No,No,Yes,No
+>50,>20,Area2,4,Graduate,No,No,No,No,Yes,No
+>50,>20,Area1,1,Undergraduate,Yes,No,No,No,No,Yes
+<=50,>20,Area2,2,Advanced/Professional,No,No,No,No,No,Yes
+>50,>20,Area1,1,Undergraduate,No,No,No,No,No,Yes
+>50,>20,Area2,4,Undergraduate,No,No,No,No,Yes,Yes
+<=50,<=10,Area2,3,Undergraduate,No,No,No,No,No,No
+<=50,<=10,Area1,3,Undergraduate,No,No,No,No,Yes,No
+>50,>20,Area2,1,Graduate,Yes,No,No,No,Yes,No
+<=50,<=10,Area2,2,Undergraduate,Yes,No,No,No,Yes,No
+>50,>20,Area2,2,Undergraduate,No,No,Yes,No,Yes,No
+<=50,<=10,Area2,4,Advanced/Professional,Yes,No,No,No,Yes,No
+>50,>20,Area2,3,Advanced/Professional,Yes,No,No,No,Yes,No
+<=50,>10 and <=20,Area2,2,Undergraduate,No,No,No,No,Yes,No
+<=50,<=10,Area2,2,Advanced/Professional,No,No,Yes,Yes,Yes,Yes
+<=50,>20,Area2,1,Graduate,No,No,No,No,Yes,Yes
+>50,>20,Area2,4,Graduate,Yes,No,No,No,Yes,No
+<=50,>20,Area1,1,Graduate,No,No,No,No,Yes,No
+<=50,<=10,Area1,1,Undergraduate,Yes,No,No,No,Yes,No
+<=50,>10 and <=20,Area1,1,Undergraduate,No,No,No,No,Yes,No
+>50,>20,Area1,1,Graduate,No,No,No,No,Yes,No
+>50,>20,Area1,4,Graduate,No,No,No,No,No,No
+>50,>20,Area1,2,Advanced/Professional,Yes,No,No,No,No,No
+<=50,>10 and <=20,Area2,1,Advanced/Professional,No,No,No,No,Yes,No
+>50,>20,Area2,2,Advanced/Professional,No,No,No,No,No,No
+<=50,>10 and <=20,Area2,1,Advanced/Professional,No,No,No,No,Yes,No
+>50,>20,Area1,4,Graduate,Yes,No,Yes,No,Yes,No
+<=50,>20,Area1,1,Undergraduate,No,No,No,No,Yes,No
+>50,>20,Area1,1,Advanced/Professional,No,No,No,No,No,No
+>50,>20,Area2,2,Graduate,No,Yes,No,No,Yes,No
+<=50,>20,Area2,4,Undergraduate,No,No,No,No,Yes,No
+>50,>20,Area1,1,Undergraduate,Yes,No,No,No,Yes,Yes
+<=50,>10 and <=20,Area2,1,Advanced/Professional,No,No,No,No,Yes,No
+<=50,<=10,Area2,2,Undergraduate,Yes,No,No,No,No,Yes
+<=50,>10 and <=20,Area2,1,Undergraduate,No,No,No,No,No,No
+<=50,>20,Area2,1,Graduate,No,No,No,No,No,No
+<=50,>10 and <=20,Area1,1,Advanced/Professional,Yes,No,No,No,Yes,No
+>50,>20,Area1,2,Advanced/Professional,Yes,No,No,No,Yes,No
+<=50,>10 and <=20,Area2,3,Advanced/Professional,No,No,Yes,Yes,Yes,Yes
+>50,>20,Area2,2,Graduate,Yes,Yes,No,No,Yes,No
+>50,>20,Area2,1,Graduate,No,No,No,No,Yes,No
+<=50,<=10,Area2,4,Advanced/Professional,No,No,No,No,Yes,Yes
+<=50,>10 and <=20,Area2,3,Undergraduate,No,No,No,No,Yes,No
+<=50,<=10,Area2,1,Undergraduate,No,No,No,No,Yes,No
+<=50,>20,Area2,4,Undergraduate,No,No,No,No,Yes,Yes
+<=50,>10 and <=20,Area1,1,Advanced/Professional,No,Yes,No,Yes,Yes,Yes
+>50,>20,Area2,3,Advanced/Professional,No,No,No,No,Yes,No
+>50,>20,Area1,1,Graduate,No,No,No,No,No,Yes
+<=50,>10 and <=20,Area2,3,Graduate,No,No,No,No,Yes,No
+<=50,>20,Area1,1,Graduate,No,No,No,No,No,Yes
+>50,>20,Area2,1,Undergraduate,No,No,No,No,Yes,Yes
+<=50,<=10,Area2,3,Undergraduate,Yes,No,No,No,Yes,No
+>50,>20,Area2,1,Undergraduate,No,No,No,No,No,Yes
+>50,>20,Area2,3,Undergraduate,No,No,No,No,Yes,No
+>50,>20,Area2,2,Advanced/Professional,No,No,No,No,Yes,No
+<=50,<=10,Area2,4,Undergraduate,No,No,No,No,No,No
+<=50,<=10,Area1,1,Advanced/Professional,No,Yes,No,No,Yes,No
+<=50,<=10,Area2,2,Graduate,Yes,No,No,No,Yes,Yes
+<=50,>10 and <=20,Area2,2,Undergraduate,No,No,Yes,No,Yes,No
+<=50,<=10,Area1,2,Advanced/Professional,No,No,No,No,Yes,No
+>50,>20,Area1,4,Advanced/Professional,No,Yes,Yes,Yes,Yes,No
+>50,>20,Area1,3,Undergraduate,No,No,No,No,Yes,Yes
+>50,>20,Area2,4,Graduate,Yes,No,No,No,Yes,Yes
+>50,>20,Area1,3,Graduate,Yes,No,No,No,No,No
+>50,>20,Area2,2,Undergraduate,No,No,No,No,Yes,No
+>50,>20,Area2,1,Advanced/Professional,Yes,No,No,No,No,No
+<=50,>10 and <=20,Area2,2,Undergraduate,Yes,No,No,No,No,Yes
+<=50,<=10,Area1,4,Advanced/Professional,Yes,No,No,No,No,No
+>50,>20,Area1,3,Undergraduate,No,No,Yes,Yes,Yes,Yes
+>50,>20,Area2,4,Graduate,No,No,No,No,No,Yes
+<=50,>20,Area2,1,Graduate,No,No,Yes,Yes,Yes,Yes
+<=50,<=10,Area2,2,Graduate,No,Yes,No,No,Yes,No
+>50,>20,Area1,1,Advanced/Professional,Yes,No,No,No,No,Yes
+<=50,>10 and <=20,Area2,2,Undergraduate,No,No,No,No,Yes,Yes
+>50,>20,Area2,1,Undergraduate,No,No,No,No,Yes,No
+>50,>20,Area2,1,Graduate,No,No,No,No,No,No
+>50,>20,Area1,1,Undergraduate,No,No,No,No,Yes,No
+<=50,>10 and <=20,Area2,3,Undergraduate,No,No,Yes,No,Yes,No
+>50,>20,Area2,4,Undergraduate,No,No,No,No,Yes,No
+<=50,>10 and <=20,Area2,3,Graduate,No,No,No,No,No,No
+<=50,>10 and <=20,Area2,4,Graduate,No,No,No,No,No,No
+<=50,<=10,Area1,4,Advanced/Professional,No,No,No,No,No,Yes
+>50,>20,Area2,3,Graduate,Yes,No,Yes,No,No,No
+<=50,>10 and <=20,Area2,1,Undergraduate,No,No,No,No,No,No
+<=50,<=10,Area1,1,Advanced/Professional,Yes,No,No,No,No,No
+<=50,>20,Area1,1,Graduate,No,Yes,No,No,Yes,No
+>50,>20,Area2,3,Advanced/Professional,No,No,Yes,No,Yes,No
+<=50,>10 and <=20,Area2,2,Undergraduate,Yes,No,No,No,No,No
+>50,>20,Area1,2,Advanced/Professional,No,No,No,No,No,No
+<=50,<=10,Area1,1,Undergraduate,No,No,No,No,Yes,No
+<=50,>10 and <=20,Area1,4,Graduate,Yes,No,No,No,No,No
+>50,>20,Area2,1,Advanced/Professional,No,No,No,No,No,Yes
+>50,>20,Area1,2,Graduate,No,No,No,No,No,No
+>50,>20,Area2,1,Advanced/Professional,No,No,No,No,Yes,No
+>50,>20,Area2,4,Graduate,No,No,No,No,Yes,No
+>50,>20,Area1,1,Graduate,Yes,No,No,No,Yes,No
+<=50,>10 and <=20,Area2,1,Undergraduate,No,No,No,No,Yes,No
+>50,>20,Area1,3,Graduate,Yes,No,No,No,Yes,No
+>50,>20,Area2,4,Advanced/Professional,No,No,No,No,Yes,No
+<=50,<=10,Area2,3,Advanced/Professional,No,No,No,No,Yes,No
+>50,>20,Area1,4,Graduate,No,No,No,No,Yes,No
+>50,>20,Area2,1,Undergraduate,No,No,Yes,No,No,No
+<=50,>10 and <=20,Area2,1,Undergraduate,Yes,No,No,No,Yes,No
+<=50,<=10,Area1,1,Graduate,No,Yes,No,No,Yes,No
+<=50,<=10,Area2,4,Advanced/Professional,No,No,No,No,No,No
+>50,>20,Area2,3,Undergraduate,No,No,No,No,No,Yes
+<=50,>20,Area2,1,Advanced/Professional,No,No,No,No,No,No
+>50,>20,Area1,4,Graduate,No,No,No,No,No,Yes
+<=50,>10 and <=20,Area2,2,Undergraduate,No,No,No,No,Yes,No
+<=50,<=10,Area2,4,Advanced/Professional,No,No,No,No,Yes,No
+>50,>20,Area1,2,Undergraduate,No,No,No,No,No,Yes
+>50,>20,Area1,1,Advanced/Professional,Yes,No,No,No,Yes,No
+<=50,<=10,Area1,2,Advanced/Professional,No,No,No,No,No,Yes
+>50,>20,Area2,4,Undergraduate,Yes,No,No,No,Yes,Yes
+<=50,>10 and <=20,Area2,4,Graduate,Yes,No,No,No,No,No
+<=50,<=10,Area2,1,Undergraduate,No,No,No,No,Yes,Yes
+>50,>20,Area1,3,Graduate,No,No,No,No,Yes,No
+>50,>20,Area2,1,Undergraduate,No,No,No,No,No,No
+<=50,>10 and <=20,Area1,3,Advanced/Professional,No,No,Yes,No,No,Yes
+<=50,>10 and <=20,Area1,4,Advanced/Professional,Yes,Yes,Yes,Yes,Yes,Yes
+<=50,>10 and <=20,Area1,2,Graduate,No,No,No,No,No,Yes
+<=50,>10 and <=20,Area1,3,Advanced/Professional,Yes,No,No,No,Yes,Yes
+<=50,>10 and <=20,Area1,4,Graduate,Yes,No,No,No,Yes,No
+<=50,>10 and <=20,Area1,4,Graduate,No,No,Yes,No,Yes,No
+>50,>20,Area2,2,Undergraduate,No,No,No,No,No,No
+>50,>20,Area1,1,Undergraduate,No,No,No,No,Yes,No
+<=50,>20,Area2,1,Graduate,No,No,No,No,Yes,No
